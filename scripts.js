@@ -150,7 +150,7 @@ const artists = [
         imageURL: "assets/simisola.jpg",
         traits: {
             mostPopularSong: "Duduke",
-            followersOnIG: "12.5",
+            followersOnIG: "12.5M",
             age: 35
         }
         
